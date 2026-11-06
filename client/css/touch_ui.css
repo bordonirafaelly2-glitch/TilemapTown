@@ -22,3 +22,9 @@ html, body {
 		width: 30%;
 	}
 }
+/* Tema rosa pastel */
+:root {
+  --pink-theme: #f8c8dc;
+  --pink-light: #fff0f5;
+  --white-theme: #ffffff;
+}
