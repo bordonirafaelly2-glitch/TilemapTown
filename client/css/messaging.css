@@ -29,3 +29,9 @@ html, body {
 	background-color: gray;
 	font-size: smaller;
 }
+/* Pink Town - status online */
+#onlineStatus {
+  background-color: #f8c8dc;
+  color: #ffffff;
+  border-radius: 8px;
+}
