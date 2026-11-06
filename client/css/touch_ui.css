@@ -28,3 +28,6 @@ html, body {
   --pink-light: #fff0f5;
   --white-theme: #ffffff;
 }
+body {
+  background-color: var(--pink-light);
+}
