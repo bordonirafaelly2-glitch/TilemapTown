@@ -67,3 +67,11 @@
   font-size: 10px;
   color: gray;
 }
+/* Chat do Pink Town */
+.distant_message {
+  color: #d46b9a;
+}
+
+.chat {
+  background-color: #fff0f5;
+}
