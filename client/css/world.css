@@ -413,3 +413,13 @@ summary {
 #touch-button-container td:hover {
     background-color: lightpink;
 }
+/* Pink Town - botões */
+#touch-button-container td {
+    background-color: #fff0f5;
+    color: #d46b9a;
+    border-color: #f8c8dc;
+}
+
+#touch-button-container td:hover {
+    background-color: #f8c8dc;
+}
